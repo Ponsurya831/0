@@ -1,0 +1,29 @@
+.container{
+    background-color: #08587a;
+    background-image: url("https://media.istockphoto.com/id/2150567837/photo/baseball-balls-background.jpg?s=1024x1024&w=is&k=20&c=BWubaWUWtqUVPbymTQcmKzZAjIdfyd_RHHfm0eTQQuo=");
+    margin:10px 185px;
+    padding:10px;
+    border-radius:20px;
+ }
+ 
+ 
+ label{
+    font-weight:bold;
+    display: block;
+    margin:20px;
+ }
+ input{
+    border-radius: 30px;
+ }
+    body{
+      background-image: url("https://media.istockphoto.com/id/1523357849/photo/basketball.webp?s=1024x1024&w=is&k=20&c=GYIMg6gLe66CayE8NaD-x27fiYI9TeSqOB40IUMaW4I=");
+
+        display: blick;
+        text-align: center;
+    }
+    button{
+        margin: 30px;
+        background-color: #474705;
+    }
+ 
+ 
